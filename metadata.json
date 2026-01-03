@@ -1,0 +1,8 @@
+{
+  "name": "ZapChat",
+  "description": "A high-performance, real-time chat application featuring secure authentication, direct and group messaging, file sharing, and a modern, responsive interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
